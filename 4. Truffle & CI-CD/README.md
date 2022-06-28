@@ -4,9 +4,11 @@
 Test unitaire pour le projet n'2 d'Alyra, test unitaire de la correction du Système de Vote fourni par Cyril sur github.
 
 - 25 tests unitaire sont disponibles dans le fichier javascript **votingTest.js**
+- [Screen eth-gas-reporter](https://zupimages.net/viewer.php?id=22/26/3jvu.png)
 
 ## Installer les modules nécessaires aux tests
 - npm install @openzeppelin/test-helpers @openzeppelin/contracts @truffle/hdwallet-provider dotenv
+- npm install eth-gas-reporter (optionel)
 - Assertion via chaiJS
 
 ## Test addVoter (6)
